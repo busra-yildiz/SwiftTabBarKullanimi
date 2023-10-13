@@ -1,4 +1,5 @@
 # SwiftTabBarKullanimi
+
 Swift ve UIKit kullanarak bir tab bar (sekme çubuğu) oluşturmanın temel adımlarını;
 
 1. Xcode Projesi Oluşturma:
